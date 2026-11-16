@@ -18,3 +18,8 @@ venv/
 # OS generated files
 .DS_Store
 Thumbs.db
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.download
+data/raw/*.json
